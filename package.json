@@ -15,4 +15,5 @@
     "dotenv": "^16.0.1",
     "express": "^4.18.1"
   }
+  "packageManager": "npm@8.3"
 }
